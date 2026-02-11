@@ -67,7 +67,7 @@ class Trabajador extends StatelessWidget {
                     radius: 45,
                     backgroundColor: Colors.white24,
                     backgroundImage: NetworkImage(
-                      'https://raw.githubusercontent.com/Alvarado-Ingrid-0456/IAMoviles_appBarCard_Gpo_6I/refs/heads/main/alvarado.png', // Ejemplo: Pikachu o usa tu link
+                      'https://raw.githubusercontent.com/Alvarado-Ingrid-0456/IAMoviles_appBarCard_Gpo_6I/refs/heads/master/alvarado.png', // Ejemplo: Pikachu o usa tu link
                     ),
                   ),
                   const SizedBox(height: 20),
